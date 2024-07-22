@@ -1,0 +1,18 @@
+[
+	{
+		"id": 0,
+		"navLink": "home"
+	},
+	{
+		"id": 1,
+		"navLink": "about"
+	},
+	{
+		"id": 2,
+		"navLink": "history"
+	},
+	{
+		"id": 3,
+		"navLink": "register"
+	}
+]

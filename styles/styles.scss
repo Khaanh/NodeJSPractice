@@ -1,0 +1,15 @@
+.header {
+	height: 80px;
+}
+
+.nav {
+	&__list {
+		list-style: none;
+		display: flex;
+		justify-content: center;
+	}
+	&__item {
+	}
+	&__link {
+	}
+}
